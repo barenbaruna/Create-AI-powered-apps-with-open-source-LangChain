@@ -5,7 +5,7 @@ from langchain_openai import ChatOpenAI
 from langchain_experimental.tools import PythonREPLTool
 from langchain_experimental.utilities import PythonREPL
 
-openai_api_key = "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"
+openai_api_key = "YOUR API KEY"
 
 os.environ["OPENAI_API_KEY"] = openai_api_key
 

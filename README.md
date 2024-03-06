@@ -1,5 +1,12 @@
 # LangChain: Creating AI Powered Apps with LangChain
 
+## 📝 Author: [Sina Nazeri](https://www.linkedin.com/in/sina-nazeri/)]. 
+
+## 🚀 Mentee Information (Contributor)
+- **Name:** Baren Baruna Harahap
+- **Program:** MSIB Batch 6 (IBM Advance AI)
+- **Mentor:** Ichsan Takwa
+
 LangChain is a Python library that simplifies natural language processing (NLP) tasks. With LangChain, you can access various state-of-the-art language models from leading providers such as OpenAI, Cohere, Huggingface Hub, IBM WatsonX, and many more.
 
 ## Key Features
@@ -28,6 +35,12 @@ By completing this project, you have mastered the skills of deploying new Machin
 
 ## Getting Started
 
-To get started with LangChain, please visit the [official documentation](https://apps.course-dev.skills.network/learning/course/course-v1:IND+GPXX06NCEN+v1/home) or if you want documentation in English, please visit [official documentation](https://apps.cognitiveclass.ai/learning/course/course-v1:IBMSkillsNetwork+GPXX0W2REN+v1/home) You can explore the provided usage examples there. 
+To get started with LangChain, please visit the [official documentation(ind)](https://apps.course-dev.skills.network/learning/course/course-v1:IND+GPXX06NCEN+v1/home) or if you want documentation in English, please visit [official documentation(eng)](https://apps.cognitiveclass.ai/learning/course/course-v1:IBMSkillsNetwork+GPXX0W2REN+v1/home) You can explore the provided usage examples there. 
 
-Thank you for using LangChain to build your AI-powered applications! Feel free to provide feedback and contribute to the development of this project.
+## 📧 Support
+
+For any questions or issues regarding this project, feel free to contact me at [barenbarunaharahap@gmail.com](mailto:barenbarunaharahap@gmail.com).
+
+## 🙏 Acknowledgements
+
+Special thanks to IBM Advance AI @Infinite Learning for providing valuable insights and guidance throughout this course.

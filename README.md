@@ -1,6 +1,6 @@
 # LangChain: Creating AI Powered Apps with LangChain
 
-## 📝 Author: [Sina Nazeri](https://www.linkedin.com/in/sina-nazeri/). 
+## 📝 Author: [Sina Nazeri](https://www.linkedin.com/in/sina-nazeri/)
 
 ## 🚀 Mentee Information (Contributor)
 - **Name:** Baren Baruna Harahap

@@ -35,7 +35,7 @@ By completing this project, you have mastered the skills of deploying new Machin
 
 ## Getting Started
 
-To get started with LangChain, please visit the [official documentation(ind)](https://apps.course-dev.skills.network/learning/course/course-v1:IND+GPXX06NCEN+v1/home) or if you want documentation in English, please visit [official documentation(eng)](https://apps.cognitiveclass.ai/learning/course/course-v1:IBMSkillsNetwork+GPXX0W2REN+v1/home) You can explore the provided usage examples there. 
+To get started with LangChain, please visit the course [IBM Skills Network (Indonesian Language)](https://apps.course-dev.skills.network/learning/course/course-v1:IND+GPXX06NCEN+v1/home) or if you want documentation in English, please visit [Cognitive Class](https://apps.cognitiveclass.ai/learning/course/course-v1:IBMSkillsNetwork+GPXX0W2REN+v1/home) You can explore the provided usage examples there. 
 
 ## 📧 Support
 

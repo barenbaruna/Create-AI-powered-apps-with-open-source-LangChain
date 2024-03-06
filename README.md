@@ -5,7 +5,7 @@
 ## 🚀 Mentee Information (Contributor)
 - **Name:** Baren Baruna Harahap
 - **Program:** MSIB Batch 6 (IBM Advance AI)
-- **Mentor:** Ichsan Takwa
+- **Mentor:** [Ichsan Takwa](https://github.com/Ichsan-Takwa)
 
 LangChain is a Python library that simplifies natural language processing (NLP) tasks. With LangChain, you can access various state-of-the-art language models from leading providers such as OpenAI, Cohere, Huggingface Hub, IBM WatsonX, and many more.
 
